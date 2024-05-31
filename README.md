@@ -152,5 +152,3 @@ $(el).on('animationend', function() {
     CSSAnimations.remove(anim.name);
 });
 ```
-
-[![githalytics.com alpha](https://cruel-carlota.pagodabox.com/bf126290eab2936d8b163b0e01688290 "githalytics.com")](http://githalytics.com/jlongster/css-animations.js)
